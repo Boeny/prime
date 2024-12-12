@@ -1,7 +1,7 @@
 const count = Number(process.argv[2]);
 
 if (isNaN(count)) {
-  console.log('The program collects prime numbers up to the entered number\n\nUsage:\nnode simple.js [number]\n');
+  console.log('The program collects prime numbers up to the entered number\n\nUsage:\nnode prime.js [number]\n');
   process.exit(0);
 }
 
