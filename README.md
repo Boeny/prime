@@ -3,7 +3,7 @@ The program collects prime numbers up to the entered number
 
 #### Usage:
 ```bash
-node simple.js [number]
+node prime.js [number]
 ```
 
 
